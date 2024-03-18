@@ -1,27 +1,36 @@
-# NextWordFrontend
+# Next Word Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+This is the frontend component of the Next Word Prediction project. 
+To enable backend functionality, a separate service needs to be initiated. GitHub repository for the frontend - [next-word-backend](https://github.com/Sheel-ui/next-word-backend)
 
-## Development server
+## Installation
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+1. Clone this repository:
 
-## Code scaffolding
+   ```bash
+   $ git clone https://github.com/your-username/next-word-frontend.git
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+2. Navigate to the project directory:
 
-## Build
+   ```bash
+   $ cd next-word-frontend
+   ```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+3. Install dependencies:
 
-## Running unit tests
+   ```bash
+   $ npm install
+   ```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Usage
 
-## Running end-to-end tests
+To start the development server, run:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+$ ng serve
+```
 
-## Further help
+This will start the server at `http://localhost:4200/` by default.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Demo
+![Alt Text](./demo/demo.gif)
