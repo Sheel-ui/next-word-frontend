@@ -1,7 +1,7 @@
 # Next Word Frontend
 
 This is the frontend component of the Next Word Prediction project. 
-To enable backend functionality, a separate service needs to be initiated. GitHub repository for the frontend - [next-word-backend](https://github.com/Sheel-ui/next-word-backend)
+To enable backend functionality, a separate service needs to be initiated. GitHub repository for the backend - [next-word-backend](https://github.com/Sheel-ui/next-word-backend)
 
 ## Installation
 
