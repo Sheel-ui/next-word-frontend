@@ -8,7 +8,7 @@ To enable backend functionality, a separate service needs to be initiated. GitHu
 1. Clone this repository:
 
    ```bash
-   $ git clone https://github.com/your-username/next-word-frontend.git
+   $ git clone https://github.com/Sheel-ui/next-word-frontend.git
 
 2. Navigate to the project directory:
 
